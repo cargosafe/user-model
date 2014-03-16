@@ -1,0 +1,21 @@
+{
+  "name": "user-model",
+  "repo": "cargosafe/user-model",
+  "description": "Model for users",
+  "version": "0.0.1",
+  "keywords": ["user", "user model", "cargosafe", "model"],
+  "dependencies": {
+    "component/each": "*",
+    "component/model": "*",
+    "component/model-timestamps": "*",
+    "modella/validators": "*",
+    "segmentio/model-defaults": "*"
+  },
+  "development": {
+    "component/assert": "*",
+    "visionmedia/mocha": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"]
+}

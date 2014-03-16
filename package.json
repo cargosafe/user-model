@@ -1,0 +1,14 @@
+{
+  "name": "user-model",
+  "description": "Model for users",
+  "version": "0.0.1",
+  "keywords": ["user", "user model", "cargosafe", "model"],
+  "dependencies": {
+    "each": "component/each",
+    "model": "component/model",
+    "model-timestamps": "component/model-timestamps",
+    "validators": "modella/validators",
+    "model-defaults": "segmentio/model-defaults"
+  },
+  "license": "MIT"
+}
